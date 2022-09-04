@@ -53,3 +53,8 @@ add_executable(5-11 chapter05/exercises/5-11.cpp)
 add_executable(copyVec chapter06/copyVec.cpp)
 add_executable(palindromes chapter06/palindromes.cpp)
 add_executable(findURLs chapter06/findURLs.cpp)
+add_executable(grade_analysis chapter06/grade_analysis.cpp chapter04/Student_info.cpp chapter04/median.cpp
+        chapter06/grade.cpp chapter06/analysis.cpp chapter06/grade_check.cpp)
+add_executable(6-3 chapter06/exercises/6-3.cpp)
+add_executable(6-4 chapter06/exercises/6-4.cpp)
+add_executable(6-9 chapter06/exercises/6-9.cpp)
