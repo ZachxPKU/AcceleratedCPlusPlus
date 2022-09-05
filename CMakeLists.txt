@@ -58,3 +58,4 @@ add_executable(grade_analysis chapter06/grade_analysis.cpp chapter04/Student_inf
 add_executable(6-3 chapter06/exercises/6-3.cpp)
 add_executable(6-4 chapter06/exercises/6-4.cpp)
 add_executable(6-9 chapter06/exercises/6-9.cpp)
+add_executable(countingWords chapter07/countingWords.cpp)
